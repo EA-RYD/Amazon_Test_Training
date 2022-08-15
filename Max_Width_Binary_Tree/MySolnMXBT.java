@@ -2,7 +2,7 @@ package Max_Width_Binary_Tree;
 
 import java.util.*;
 
-import org.omg.CORBA.ACTIVITY_COMPLETED;
+//import org.omg.CORBA.ACTIVITY_COMPLETED;
 
 public class MySolnMXBT {
     /*
