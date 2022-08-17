@@ -1,0 +1,65 @@
+Behavioral Question:
+https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d
+
+
+Technical Questions:
+given a 2D matrix with each cell representing the direction one can move find the shortest path to the final cell
+Minimum number of squares whose sum equals to given number n
+Find the equilibrium point of array - find the smallest index where sum of left part = sum of right part.
+Maximum number of platforms for a train schedule - given a train schedule (arrival and departure) find min platforms needed to make this schedule work.
+Given the level order traversal of a tree, how can you figure out if the tree is a Binary Search Tree
+https://www.tutorialcup.com/interview/tree/check-if-the-given-array-can-represent-level-order-traversal-of-binary-search-tree.htm
+
+Given a binary tree and target node. By giving the fire to the target node and fire starts to spread in a complete tree. The task is to print the sequence of the burning nodes of a binary tree.
+https://leetcode.com/problems/binary-tree-maximum-path-sum/
+reader writer problem
+https://leetcode.com/problems/max-consecutive-ones-iii/
+Check whether a number is a perfect square or not. You cannot use inbuilt SQRT function.
+https://leetcode.com/problems/monotonic-array/
+ geekforgeeks (bit manipulation)
+island problem
+Find the number of distinctly shaped islands
+Check if two trees have same order of leaf nodes.
+Matrix traversal using bfs.
+https://leetcode.com/problems/maximize-distance-to-closest-person/
+rearrange array in alternating positive & negative numbers
+https://leetcode.com/discuss/interview-question/396248/facebook-phone-screen-point-in-max-overlapping-intervals
+https://leetcode.com/discuss/interview-question/752928/facebook-phone-point-of-maximum-intervals-interlap
+https://leetcode.com/problems/rotate-image/
+https://leetcode.com/problems/minimum-window-substring/
+https://leetcode.com/problems/merge-two-sorted-lists/
+https://leetcode.com/problems/unique-paths-ii/
+ concatenated words(#472)
+Two Sum - Unique Pairs
+https://leetcode.com/problems/lru-cache/
+https://leetcode.com/problems/reverse-words-in-a-string/
+given a complete/full BST, return an array with all the numbers sorted
+same in reverse
+https://leetcode.com/problems/kth-largest-element-in-a-stream/
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/
+Sort 012 array
+Container with most water (asked 2 approaches and told to code anyone)
+Spiral Matrix
+Serialize and Deserialize Binary Tree
+Flatten Binary Tree to Linked List
+
+
+Random Questions:
+What happens when you type a url in the web browser
+How DNS works.
+What is TCP
+Some questions on demand paging.
+SQL v/s NO-SQL
+1-2 example per leadership principle and in your answer use STAR format.
+Asked CS theory questions (explain time complexity, CPU architecture, etc.)
+
+Things to read/watch:
+Leetcode amazon tagged questions (design)
+Did a data structure/algo course on Udemy for like $15
+
+
+Things to focus on:
+- Amazon Favourite LC medium questions
+- Knowing time/space efficiency of leetcode problems and algorithms in general
+- "production grade" code
+- Grilled on data structures and algo, asked about queues, linked lists, stacks, binary trees, graphs, all their functions and time complexities and different ways to implement them. Also asked me about sorting algos and grilled me on time complexity and had to explain how they work. She also asked me how a hashmap works and its different functions, how I'd implement it, etc. She also asked me why I wouldn't use an array to implement a queue (because of a time complexity)
