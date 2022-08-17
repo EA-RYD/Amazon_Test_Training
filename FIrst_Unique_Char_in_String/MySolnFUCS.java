@@ -17,6 +17,7 @@ public class MySolnFUCS {
 
     // hashmap where count is key, take first value of 
     // FASTER THAN 60% mem and speed    
+    // eff O(2*n) O(map.size())
     public static int firstUniqChar(String s) {
         HashMap<Character,Integer> map = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {

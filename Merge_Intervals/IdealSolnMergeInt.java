@@ -2,14 +2,27 @@ package Merge_Intervals;
 import java.util.*;
 
 public class IdealSolnMergeInt {
-    public List<int[]> merge(List<int[]> intervals) {
+
+    public static void main(String[] args) {
+        int[][] intervals = {{1,3},{2,6},{8,10},{15,18}};
+        //int[][] intervals = {{1,4},{5,6}};
+        for (int[] is : merge(intervals)) {
+            System.out.println();
+            for (int is2 : is) {
+                System.out.print(is2 + " ");
+            }
+        }
+        System.out.println(); 
+    }
+    // O(n) eff since sorting takes O(logn) since we dont have to be checking multiple indice
+    public static List<int[]> merge(int[][] intervals) {
         // sort start&end
-        int n = intervals.size();
+        int n = intervals.length;
         int[] starts = new int[n];
         int[] ends = new int[n];
         for (int i = 0; i < n; i++) {
-            starts[i] = intervals.get(i)[0];
-            ends[i] = intervals.get(i)[1];
+            starts[i] = intervals[i][0];
+            ends[i] = intervals[i][1];
         }
         Arrays.sort(starts);
         Arrays.sort(ends);
