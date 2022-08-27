@@ -20,6 +20,7 @@ p and q as descendants (where we allow a node to be a descendant of itself).”
         que.add(root);
 
         // both in parent
+        //bfs
         while (!parent.containsKey(p) || !parent.containsKey(q)) {
             TreeNode node = que.poll();
             if (node.left != null) {

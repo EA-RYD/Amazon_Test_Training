@@ -25,116 +25,137 @@
 
 
 # Questions
-Tell me about a time when you went over and beyond for a client in your project? (Customer Obsession)
-Tell me about a time when you took calculated risk in your project? (Bias for Action)
-Tell me about a time when you were faced with a problem that had a number of possible solutions. What was the problem and how did you determine the course of action? What was the outcome of that choice?
-When did you take a risk, make a mistake, or fail? How did you respond, and how did you grow from that experience?
-Describe a time you took the lead on a project.
-What did you do when you needed to motivate a group of individuals or promote collaboration on a particular project?
-How have you leveraged data to develop a strategy?
-Tell me about a time you were under a lot of pressure. What was going on, and how did you get through it?
-Tell me a challenge you had where the best way forward was not clear cut. How did you decide what to do?
-Give me an example of something you tried to accomplish but failed.
-Give me an example of a time when you showed initiative.
-Give me an example of a time when you motivated others.
-Tell me about a time when you delegated a project effectively.
-Tell me about a time when you coached someone.
-When have you used your fact-finding skills to solve a problem?
-Tell me about a time you received critical feedback
-Tell me a time when you work with a tight deadline. What would you change or improve if you gonna do it again? 
-Tell me about a time when you helped a teammate. Did he learn something from it? What were the results?
-Tell me about a time when you had to work with no data.
-Mention about a time when you over-delivered from some one expectations
-Mention about a time when you failed
+- Tell me about a time when you went over and beyond for a client in your project? (Customer Obsession)
+When I was doing freelance work for people from my old internship, I was requested to do a project during the busiest period of my finals week. I initially declined it but after a bit of thinking on my time management I decided to take it on and I took most of a few days to finish the project while maintaining my study habits. 
 
-Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome?
+- Tell me about a time when you took calculated risk in your project? (Bias for Action)
+    In my undergrad I worked on a functional radar with a transmitter and receiver and we were having a problem with a pcb we used for part of the project but we could not figure out what the issue was. We didn't have much time to debug it as it was the last week so we scrapped the board and had to reassemble a new one within a very small time frame. The board ended up working and we were able to be operational.
 
-Give an example of when you saw a peer struggling and decided to step in and help. What was the situation and what actions did you take? What was the outcome?
-Tell me about a time you committed a mistake?
+- Tell me about a time when you were faced with a problem that had a number of possible solutions. What was the problem and how did you determine the course of action? What was the outcome of that choice?
+    A problem I faced recently was for a class where we were in a six person group responsible for a programming project and two weeks into the project we realized that two of our group members were not going to respond to any of our communication so we had to make a decision on how to split work load and what to do about the situation. We got into a call and decided to just split up the work among the remaining people since we could not wait for the professor to do something about the other two students. Working with what we had was what we prioritized.
 
-Tell me about a time when your earned your teammate's trust?
+- When did you take a risk, make a mistake, or fail? How did you respond, and how did you grow from that experience?
+    When I first started my last internship I made a few mistakes with one of the earlier versions of a PCB and I was given some loud feedback. I fixed my mistakes but I also realized I was not being meticulous enough so I made it a goal for myself to review my own work and double check everything.
 
-Tell me about a time when you couldn't meet your deadline?
+- Describe a time you took the lead on a project.
+    Two weeks into a project last year I realized that the group I was in was not going to contact each other about the project until last minute if at all. I started trying to schedule calls to plan project details which sort of worked but not everyone attended or participated with all of them. I also would write down whatever commitments or responsiblities people have agreed to and share them as a list just so every one would be held accountable even me. Towards the end it was mostly just me and one other working on different aspects of the project with one big contribution from one of the other two but I was more focused on just completing the project than anything else. 
 
-Tell me about a time when your teammate didn't agree with you? What did you do?
+- What did you do when you needed to motivate a group of individuals or promote collaboration on a particular project?
+    Constant communication is required for motivation, preferably in person since thats how people feel more held accountable. Within those meetings it's important to get some input from everyone so that they feel actually part of the project. 
 
-Tell me about a time when you invented something?
+- How have you leveraged data to develop a strategy?
+    We acquired some data on HVAC readings and decided the tech stack it would be processed throught.
 
-Tell me about a time when you took important decision without any data?
+- Tell me about a time you were under a lot of pressure. What was going on, and how did you get through it?
+    First semester of masters where I was not sure if I was capable, Focused all my time on getting myself ready and self-teaching.
 
-Tell me about a time when you helped one of your teammates?
+- Tell me a challenge you had where the best way forward was not clear cut. How did you decide what to do?
+    Finn board. A project in my internship where I had to convert a two sided board to one layer. The board was already condensed and I was allowed to expand only a small amount. I had unlimited freedom besides that but I had to follow typical circuit building protocols. I decided to split up the board into sections and would reserve space for sections that were particularly important like the power supply. 
 
-Have you ever been in a situation where you had to make a choice among a few options, but did not have a lot of time to explore each option
+- Give me an example of something you tried to accomplish but failed.
+    I failed a programming class in UC Davis, I did the class again and passed with some effort. 
 
-Have you ever failed at something? What did you learn from it?
+- Give me an example of a time when you showed initiative.
+    We were at a decision making point where we could not continue with a project idea because of the lack of data on online accessible resources for free so I messaged a researcher from another country and asked him if we could use some of his data within in our project. After some time he was able to send me it. 
 
-name time when you went out of your way to help someone?
+    Internship had poorly organized files so with all of my new projects I tried to be as organized as possible, I also took notes for myself on each project that eventually ended up turning into something of a requirement once they noticed my notes. 
 
-Time when you came up with novel solution.
-Received negative feedback from manager and how you responded.
-Time when you went above and beyond your job responsibilities.
-Time when you did not have enough data and had to use judgement to make decision.
-Time when you helped someone in their work.
-Time when you helped someone grow in career and it benefited them.
-Time when you helped someone grow but did not benefit them.
-Time when you were 75% through a project and realized you had the wrong goal.
-Time when your team members were not supporting something but you pushed and went for a more optimal solution.
-Time when you pushed back a decision from your management for better long term benefits.
-Time when you failed to meet your commitment
+    Had issues with a manufacturer so I reached out to them to talk out the issue myself. 
 
-Tell me about yourself. Tell me about a project you're working on.
+- Give me an example of a time when you motivated others.
+    For a project group that was missing two of its members, everyone else was feeling wary about the workload and about the direction of our project in general. I suggested we get into a call and tried to establish a direction at that moment while assuring  others that while realistically we would have to each do more work, we would be find in the end as long as we have a steady pace of progress and I personally took on specific tasks even though I was fairly new to programming. 
 
-Time when you were working on a project on a time constraint
+- Tell me about a time when you delegated a project effectively.
+    In two past groups I have had to get people into calls and define roles withing a project and then have people volunteer for what they prefer or already have knowledge in. 
 
-Time when you didn't meet a deadline
+- Tell me about a time when you coached someone.
+    I helped a friend debug his parts of a project a lot. I also tutor my niece in math.
 
-Time when you needed help from somebody
+- When have you used your fact-finding skills to solve a problem?
+    We were switching to a new manufacturer and we worried about things like the procedure for making an order, how reliable shipping and quality would be, and how responsive they would be with customer relations. I took some time and found some people in our area who had reviewed the same place along with some other reviews and we decided that it would probably be worth the risk .
 
-Tell me about yourself.
-Tell me about a time you had to help a team member struggling with a task.
-Tell me about a time you faced an obstacle and how you overcame it.
+- Tell me about a time you received critical feedback
+When I first started my last internship I made a few mistakes with one of the earlier versions of a PCB and I was given some loud feedback. I fixed my mistakes but I also realized I was not being meticulous enough so I made it a goal for myself to review my own work and double check everything.
 
-Tell me about one of your projects?
-Tell me about one of your projects so the same as the first guy.
-Tell me a time you took some on some risk
+- Tell me a time when you work with a tight deadline. What would you change or improve if you gonna do it again? 
+HVAC group, besides better member I would have been even more persistent in establshing communication
 
-Have you ever gone out of your way to help a peer? (ownership)
-Have you ever had to make a tough decision without consulting anybody? (bias for action)
-asked me about my past projects that I've worked on and gave me detailed explaination about the Internship.
+- Tell me about a time when you helped a teammate. Did he learn something from it? What were the results?
+    We had an issue where we were uploading files to github with each iteration instead of pulling and pushing which was causing confusion with version control. I got on a call with my teammate and guided him through the process and towards the end we finally stopped just uploading whole folders. 
 
-Tell me about a time when you learned new technologies
-Tell me about a time when you took a decision on your own without the manager's prior approval
-Tell me about a time you had multiple solutions and you had to select an optimal one
+    Teammate was having a hard time coming up with progamming design patterns to integrate within his part of project, I went over the purposes of a few of the patterns with him and compared them to what he was working on and we eventually settled on a solution. 
 
-Tell me about a time when you innovated and exceeded the expectation
+- Tell me about a time when you had to work with no data.
+    HVAC project
 
-Tell me about a time where you had to make a decision based on limited information and how it impacted the outcome.
+- Mention about a time when you over-delivered from some one expectations
+    Early on in internship I finished projects faster than expected, became my typical time for completion. 
 
-Tell me about a time where you had limited time and how it impacted
+- Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome?
+    Two groups with absent member so we just focused on project and worked with what we had. For first group they were reported to teacher, second not sure. 
 
-Tell me about a time where you did not know something and how you tackled it(Something related to it)
+- Give an example of when you saw a peer struggling and decided to step in and help. What was the situation and what actions did you take? What was the outcome?
+    Peer asking for help in a class discord, I tried to lead them in the right direction while not giving the answer completely, they eventually realized what to do
 
-first one was about handling a tight deadline, second is setbacks on projects?
+    Radar project teammate was dealing with child situation so I took on more responsiblities.
 
-Handling a tight deadline
-How would you help a new employee who is facing technical difficulties?
+- Tell me about a time when you earned your teammate's trust?
+    I was able to handle PCB portion of project alone with no prior experience so I became resident PCB expert.
 
-disagree and commit and ownership LPs.
+- Tell me about a time when you couldn't meet your deadline?
+    Part of the reason why I failed prog class was that I missed the deadline for a project by a day due to being overwhelmed.
 
-Tell me about your yourself (the general icebreaker).
-Tell me about tim when you faced a difficult challenge.
-Tell me about a time when you needed help from someone during a project.
+- Tell me about a time when your teammate didn't agree with you? What did you do?
+    For HVAC project I didnt agree on the tech stack but after some research on tech and thought on time I deferred to her since she has more experience. 
 
-Tell me about a time when you thought of an unpopular idea.
-Tell me about a time when you had to decide upon something without consulting your superior.
-Tell me about a time when you had to face tight time constraints during a project.
+- Tell me about a time when you invented something?
+    Established new protocols in internship for how to handle version control
 
-Tell me about yourself.
-Tell me about a time when you did not meet your deadlines for a project.
-Tell me about a time when you had conflicting ideas with your teammates and how did you resolve them?
+- Tell me about a time when you took important decision without any data?
+    First started internship was not thinking about things like thermal dispersion and load imbalance during design
 
-a project you're proud of
-a time when you faced a setback initially but still achieved the goal.
-a time when you had to cut corners to meet a deadline
+- Time when you were 75% through a project and realized you had the wrong goal.
+    Had an emergency session as a group to start over
 
-"Tell me about a time when you felt under pressure that you wouldn't be able to get something done or had to take a pivot at the last minute"
+- Time when you failed to meet your commitment
+    Asked for extension for a project
+
+- Time when you didn't meet a deadline
+    Felt bad but moved because besides learning from mistakes there is not much use hanging on to past mistakes.
+
+- Time when you needed help from somebody
+    When I was newer to programming and GIT I asked some questions to my friend in industry.
+
+- Have you ever had to make a tough decision without consulting anybody? (bias for action)
+    I got into personal call with teacher asking advice about absent teammates
+
+- Tell me about a time when you learned new technologies
+    Learning eagle, programming in general, JLC
+
+- Tell me about a time when you took a decision on your own without the manager's prior approval
+    Contacted manufacturer under company name
+
+
+- Tell me about a time where you did not know something and how you tackled it(Something related to it)
+    Learning software, a ton of self-education
+
+- How would you help a new employee who is facing technical difficulties?
+    Recommend resources that helped me, if that doesn't help then make some guide myself and walk them through it
+
+- Tell me about your yourself 
+    Newfound passion in programming due to me liking testing my problem solving skills and not liking circuitry as much as I thought
+
+- Tell me about a time when you thought of an unpopular idea.
+    I wanted to do a project that was more difficult but since rest of group didnt want to I just went along with it
+
+- A project you're proud of
+    Smallcat I designed on my own
+
+- A time when you faced a setback initially but still achieved the goal.
+    Absent teammates
+
+- A time when you had to cut corners to meet a deadline
+    Didnt program user database for HVAC SITE
+
+- Tell me about a time when you felt under pressure that you wouldn't be able to get something done or had to take a pivot at the last minute
+    Had to learn tableau at last second

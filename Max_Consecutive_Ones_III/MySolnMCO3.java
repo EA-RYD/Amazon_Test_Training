@@ -12,6 +12,7 @@ public class MySolnMCO3 {
         System.out.println(longestOnes(nums, k));
     }
 
+    //test cases passed but took too long
     // look at windows that contain k zeros, save index of zeros and 
     // shift to them once you take one length
     public static int longestOnes(int[] nums, int k) {

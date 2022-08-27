@@ -18,7 +18,7 @@ public class MySolnSTS {
         for (Integer i : arr) 
             map.put(i, map.getOrDefault(i, 0) + 1);
         
-        for (var v : map.entrySet()) 
+        for (Map.Entry<Integer,Integer> v : map.entrySet()) 
             res.add(Arrays.asList(v.getKey(),v.getValue()));
         
         Collections.sort(res, new Comparator<List<Integer>>() {

@@ -25,40 +25,38 @@ public class MySolnDB {
     the PriorityQueue is empty.
     Return the result array.
 
+    Distant Barcodes
+
      */
     public static int[] rearrangeBarcodes(int[] barcodes) {
-        int[] result = new int[barcodes.length];
         HashMap<Integer,Integer> map = new HashMap<>();
 
         for (int i : barcodes) 
-            if (map.containsKey(i))
-                map.put(i, map.get(i) + 1);
-            else   
-                map.put(i,1);
-        
-        for (Map.Entry<Integer,Integer> m : map.entrySet()) {
-            
-        }
-        PriorityQueue<Integer> que = new PriorityQueue<>(barcodes.length,new Comparator<Integer>() {
-            public int compare(Integer o1, Integer o2) {
-                if (map.get(o1) < map.get(o2)) 
-                    return 1;
-                else if (map.get(o1) > map.get(o2)) 
-                    return -1;
-                return 0;
-            }
-        });
+            map.put(i, map.getOrDefault(i,0) + 1);
+    
+        PriorityQueue<int[]> que = new PriorityQueue<>(barcodes.length,(x,y) -> Integer.compare(y[1], x[1]));
 
-        //que.addAll(Arrays.stream(barcodes).boxed().collect(Collectors.toList()));
+        for (Map.Entry<Integer,Integer> e : map.entrySet()) 
+            que.offer(new int[] {e.getKey(),e.getValue()});
         
+    
         int i = 0;
-        ArrayList<Integer> tempHolder = new ArrayList<>();
-        while (!map.isEmpty()) {
-            que.add(i);
-            if (map.get(result[i]) == 0)
-                map.remove(result[i]);
-            else 
-                map.put(result[i], map.get(result[i]) - 1);
+        int[] result = new int[barcodes.length];
+        while (!que.isEmpty()) {
+            int[] temp = que.poll();
+            if (i == 0 || temp[0] != result[i-1]) {
+                result[i] = temp[0];
+                if (--temp[1] > 0) {
+                    que.add(temp);
+                }
+            } else {
+                int[] second = que.poll();
+                result[i] = second[0];
+                if (--second[1] > 0) {
+                    que.add(second);
+                }
+                que.add(temp);
+            }
             i++;
         }
 
